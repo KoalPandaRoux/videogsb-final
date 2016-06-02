@@ -4,7 +4,7 @@
 GSB Vidéo est une application réalisé dans le cadre du BTS service informatique aux organisations option solutions logicielles application métiers.  
 
 ### Version
-v0.3
+v1.0.1
 
 ### Technologies
 - HTML5/CSS
@@ -40,10 +40,9 @@ http://louischesnaisbordes.wix.com/blog#!application-gsb-video/c1axe
 
 ### Outils
  - Github
+ - Git
  - Google Drive
- - WampServer 3.0
- - PHPstorm
- - WebStorm
+ - Appache
  - Netbeans
  - Sublime Text 3
 
